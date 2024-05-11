@@ -1,7 +1,7 @@
 ## 😋 About me
 👋Hi! I'm Raka, an ordinary random programmer.
 
-##📊Stats
+## 📊Stats
 ![](https://raw.githubusercontent.com/rakafebriansy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/rakafebriansy/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
