@@ -2,8 +2,10 @@
 👋Hi! I'm Raka, an ordinary random programmer.
 
 ## 📊Stats
-![](https://raw.githubusercontent.com/rakafebriansy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/rakafebriansy/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=rakafebriansy&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakafebriansy&layout=compact" height=180 />
+</p>
 
 <!--
 **rakafebriansy/rakafebriansy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
