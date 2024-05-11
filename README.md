@@ -1,4 +1,9 @@
-### Hi there 👋
+## 😋 About me
+👋Hi! I'm Raka, an ordinary random programmer.
+
+##📊Stats
+![](https://raw.githubusercontent.com/rakafebriansy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rakafebriansy/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!--
 **rakafebriansy/rakafebriansy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
