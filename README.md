@@ -2,9 +2,13 @@
 👋Hi! I'm Raka, an ordinary random programmer.
 
 ## 📊Stats
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rakafebriansy&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakafebriansy&layout=compact" height=180 />
+<p align="left">
+  <a href="https://github.com/rakafebriansy">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rakafebriansy&theme=algolia&hide_border=false"/>
+</a>
+<a href="https://github.com/rakafebriansy">
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakafebriansy&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 <!--
