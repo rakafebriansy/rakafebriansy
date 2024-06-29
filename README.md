@@ -1,5 +1,5 @@
 ## 😋 About me
-👋Hi! I'm Raka, an ordinary random programmer.
+👋Hi! I'm Raka, an ordinary programmer.
 
 ## 📊Stats
 <p align="left">
